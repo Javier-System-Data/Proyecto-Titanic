@@ -30,4 +30,4 @@ Si decides ejecutar este notebook en la nube, la primera celda del código insta
 * **Opción 1**: Puedes abrir este análisis directamente en Google Colab haciendo clic en el archivo `.ipynb` de este repositorio.
 * **Opción 2**: Puedes ejecutarla directo desde el enlace
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanPerez/Titanic_Analysis/blob/main/Analisis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Javier-System-Data/Proyecto-Titanic/blob/main/Titanic_Data1.ipynb)
