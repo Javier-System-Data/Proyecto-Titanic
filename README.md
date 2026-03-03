@@ -39,3 +39,14 @@ Si decides ejecutar este notebook en la nube, la primera celda del código insta
 * **Opción 2:** Puedes ejecutarlo directamente desde el siguiente enlace:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Javier-System-Data/Proyecto-Titanic/blob/main/Titanic_Data1.ipynb)
+
+## 🛠️ Habilidades Técnicas Demostradas
+
+En este proyecto se integraron competencias avanzadas de **Data Science** y **Software Engineering**, aplicadas bajo un enfoque de ingeniería:
+
+* **Análisis Exploratorio de Datos (EDA):** Identificación y tratamiento de patrones bivariados y multivariados en datasets históricos complejos.
+* **Visualización Estadística Avanzada:** Implementación de **Raincloud Plots** para el análisis simultáneo de densidades de probabilidad (KDE), distribuciones crudas y estadísticos de tendencia central.
+* **Feature Engineering:** Transformación de variables categóricas y codificación (Mapping) para el cálculo preciso de matrices de dependencia.
+* **Estadística Descriptiva e Inferencial:** Uso del **Coeficiente de Correlación de Pearson** para cuantificar relaciones lineales entre variables críticas de supervivencia.
+* **Programación en Python:** Dominio de librerías del ecosistema científico como `Pandas`, `Seaborn`, `Matplotlib` y `PtitPrince`.
+* **Entornos de Computación en la Nube:** Configuración, optimización y despliegue de notebooks interactivos en **Google Colab**.
